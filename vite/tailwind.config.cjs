@@ -23,6 +23,7 @@ module.exports = {
     },
     extend: {},
     fontFamily: {
+      'body': ['Kumbh Sans']
     }
   },
   plugins: [],
